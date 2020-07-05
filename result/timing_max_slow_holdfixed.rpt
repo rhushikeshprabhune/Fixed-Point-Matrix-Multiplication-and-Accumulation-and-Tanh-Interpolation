@@ -1,0 +1,85 @@
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : ECE564MyDesign
+Version: M-2016.12-SP4
+Date   : Tue Nov 26 20:13:18 2019
+****************************************
+
+Operating Conditions: slow   Library: NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+Wire Load Model Mode: top
+
+  Startpoint: pre_tanh_calc_reg[10]
+              (rising edge-triggered flip-flop clocked by clk)
+  Endpoint: tanh_op_reg[40]
+            (rising edge-triggered flip-flop clocked by clk)
+  Path Group: clk
+  Path Type: max
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock clk (rise edge)                                 0.0000     0.0000
+  clock network delay (ideal)                           0.0000     0.0000
+  pre_tanh_calc_reg[10]/CK (DFF_X2)                     0.0000     0.0000 r
+  pre_tanh_calc_reg[10]/QN (DFF_X2)                     0.4935     0.4935 r
+  r512/A[10] (ECE564MyDesign_DW01_inc_7)                0.0000     0.4935 r
+  r512/U166/ZN (NAND2_X2)                               0.0743     0.5678 f
+  r512/U232/ZN (NOR2_X2)                                0.2422     0.8100 r
+  r512/U136/ZN (NAND2_X2)                               0.0902     0.9002 f
+  r512/U135/ZN (NOR2_X4)                                0.1241     1.0243 r
+  r512/U235/ZN (INV_X4)                                 0.0838     1.1081 f
+  r512/U317/Z (XOR2_X1)                                 0.3559     1.4640 f
+  r512/SUM[16] (ECE564MyDesign_DW01_inc_7)              0.0000     1.4640 f
+  U1105/Z (MUX2_X2)                                     0.6137     2.0777 f
+  U709/ZN (INV_X4)                                      0.1089     2.1867 r
+  U710/ZN (INV_X8)                                      0.0637     2.2504 f
+  mult_149/b[16] (ECE564MyDesign_DW_mult_uns_5)         0.0000     2.2504 f
+  mult_149/U1194/ZN (XNOR2_X2)                          0.2848     2.5351 f
+  mult_149/U1156/ZN (OAI22_X2)                          0.4082     2.9434 r
+  mult_149/U683/S (FA_X1)                               0.8018     3.7452 f
+  mult_149/U681/CO (FA_X1)                              0.6179     4.3631 f
+  mult_149/U673/S (FA_X1)                               0.8784     5.2416 f
+  mult_149/U672/S (FA_X1)                               0.6756     5.9172 f
+  mult_149/U1578/ZN (NOR2_X2)                           0.2514     6.1685 r
+  mult_149/U1582/ZN (OAI21_X2)                          0.1083     6.2769 f
+  mult_149/U1554/ZN (AOI21_X2)                          0.3638     6.6406 r
+  mult_149/U1549/ZN (OAI21_X2)                          0.1295     6.7701 f
+  mult_149/U1553/ZN (AOI21_X4)                          0.3988     7.1689 r
+  mult_149/U1552/ZN (INV_X16)                           0.0871     7.2561 f
+  mult_149/U1736/ZN (AOI21_X2)                          0.1915     7.4476 r
+  mult_149/U277/Z (XOR2_X2)                             0.3860     7.8335 r
+  mult_149/product[29] (ECE564MyDesign_DW_mult_uns_5)   0.0000     7.8335 r
+  add_149/B[35] (ECE564MyDesign_DW01_add_6)             0.0000     7.8335 r
+  add_149/U515/ZN (NAND2_X1)                            0.1387     7.9722 f
+  add_149/U524/ZN (OAI21_X2)                            0.2634     8.2357 r
+  add_149/U531/ZN (AOI21_X2)                            0.1287     8.3644 f
+  add_149/U582/ZN (OAI21_X2)                            0.1993     8.5637 r
+  add_149/U530/ZN (AOI21_X2)                            0.1227     8.6864 f
+  add_149/U594/ZN (INV_X4)                              0.0804     8.7668 r
+  add_149/U518/ZN (AOI21_X4)                            0.0598     8.8266 f
+  add_149/U521/ZN (INV_X4)                              0.2373     9.0639 r
+  add_149/U607/ZN (AOI21_X1)                            0.1356     9.1995 f
+  add_149/U551/Z (XOR2_X1)                              0.3860     9.5855 f
+  add_149/SUM[40] (ECE564MyDesign_DW01_add_6)           0.0000     9.5855 f
+  U1136/ZN (AOI221_X2)                                  0.4836    10.0691 r
+  U694/ZN (INV_X2)                                      0.0619    10.1311 f
+  tanh_op_reg[40]/D (DFF_X2)                            0.0000    10.1311 f
+  data arrival time                                               10.1311
+
+  clock clk (rise edge)                                10.5000    10.5000
+  clock network delay (ideal)                           0.0000    10.5000
+  clock uncertainty                                    -0.0500    10.4500
+  tanh_op_reg[40]/CK (DFF_X2)                           0.0000    10.4500 r
+  library setup time                                   -0.3146    10.1354
+  data required time                                              10.1354
+  --------------------------------------------------------------------------
+  data required time                                              10.1354
+  data arrival time                                              -10.1311
+  --------------------------------------------------------------------------
+  slack (MET)                                                      0.0043
+
+
+1

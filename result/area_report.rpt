@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : ECE564MyDesign
+Version: M-2016.12-SP4
+Date   : Tue Nov 26 20:13:18 2019
+****************************************
+
+Library(s) Used:
+
+    NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm (File: /afs/eos.ncsu.edu/lockers/research/ece/wdavis/tech/nangate/NangateOpenCellLibrary_PDKv1_2_v2008_10/liberty/520/NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm.db)
+
+Number of ports:                         1310
+Number of nets:                          7774
+Number of cells:                         5959
+Number of combinational cells:           5724
+Number of sequential cells:               221
+Number of macros/black boxes:               0
+Number of buf/inv:                        987
+Number of references:                      55
+
+Combinational area:               8314.096034
+Buf/Inv area:                      550.886003
+Noncombinational area:            1016.386023
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                  9330.482056
+Total area:                 undefined
+1

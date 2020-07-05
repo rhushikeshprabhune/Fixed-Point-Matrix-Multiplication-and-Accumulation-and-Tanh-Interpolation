@@ -1,0 +1,633 @@
+Port dut__sram__write_address[11] connected to more than 1 cell
+dut__sram__write_address_reg_11_/Q
+dut__sram__write_address[11]
+U734/A
+Port dut__sram__write_address[10] connected to more than 1 cell
+dut__sram__write_address_reg_10_/Q
+dut__sram__write_address[10]
+U733/A
+U1351/A2
+Port dut__sram__write_address[9] connected to more than 1 cell
+dut__sram__write_address_reg_9_/Q
+dut__sram__write_address[9]
+U739/A
+U1352/A2
+Port dut__sram__write_address[8] connected to more than 1 cell
+dut__sram__write_address_reg_8_/Q
+dut__sram__write_address[8]
+U1353/A2
+U1354/A
+Port dut__sram__write_address[7] connected to more than 1 cell
+dut__sram__write_address_reg_7_/Q
+dut__sram__write_address[7]
+U1355/A2
+U1356/A
+Port dut__sram__write_address[6] connected to more than 1 cell
+dut__sram__write_address_reg_6_/Q
+dut__sram__write_address[6]
+U1357/A2
+U1358/A
+Port dut__sram__write_address[5] connected to more than 1 cell
+dut__sram__write_address_reg_5_/Q
+dut__sram__write_address[5]
+U1359/A2
+U1360/A
+Port dut__sram__write_address[4] connected to more than 1 cell
+dut__sram__write_address_reg_4_/Q
+dut__sram__write_address[4]
+U1361/A2
+U1362/A
+Port dut__sram__write_address[3] connected to more than 1 cell
+dut__sram__write_address_reg_3_/Q
+dut__sram__write_address[3]
+U1363/A2
+U1364/A
+Port dut__sram__write_address[2] connected to more than 1 cell
+dut__sram__write_address_reg_2_/Q
+dut__sram__write_address[2]
+U1365/A2
+U1366/A
+Port dut__sram__write_address[1] connected to more than 1 cell
+dut__sram__write_address_reg_1_/Q
+dut__sram__write_address[1]
+U1365/A1
+U1366/B
+Port dut__sram__read_address[11] connected to more than 1 cell
+dut__sram__read_address_reg_11_/Q
+dut__sram__read_address[11]
+U735/A
+Port dut__sram__read_address[10] connected to more than 1 cell
+dut__sram__read_address_reg_10_/Q
+dut__sram__read_address[10]
+U736/A
+U1338/A2
+Port dut__sram__read_address[9] connected to more than 1 cell
+dut__sram__read_address_reg_9_/Q
+dut__sram__read_address[9]
+U740/A
+U1339/A2
+Port dut__sram__read_address[8] connected to more than 1 cell
+dut__sram__read_address_reg_8_/Q
+dut__sram__read_address[8]
+U1340/A2
+U1341/A
+Port dut__sram__read_address[7] connected to more than 1 cell
+dut__sram__read_address_reg_7_/Q
+dut__sram__read_address[7]
+U1342/A2
+U1343/A
+Port dut__sram__read_address[6] connected to more than 1 cell
+dut__sram__read_address_reg_6_/Q
+dut__sram__read_address[6]
+U1344/A2
+U1345/A
+Port dut__sram__read_address[5] connected to more than 1 cell
+dut__sram__read_address_reg_5_/Q
+dut__sram__read_address[5]
+U1346/A2
+U1347/A
+Port dut__sram__read_address[4] connected to more than 1 cell
+dut__sram__read_address_reg_4_/Q
+dut__sram__read_address[4]
+U746/A
+U1348/A2
+Port dut__sram__read_address[3] connected to more than 1 cell
+dut__sram__read_address_reg_3_/Q
+dut__sram__read_address[3]
+U747/A
+U1349/A2
+Port dut__sram__read_address[2] connected to more than 1 cell
+dut__sram__read_address_reg_2_/Q
+dut__sram__read_address[2]
+U751/A
+U1350/A2
+Port dut__sram__read_address[1] connected to more than 1 cell
+dut__sram__read_address_reg_1_/Q
+dut__sram__read_address[1]
+U751/B
+U847/A1
+U1350/A1
+Input port sram__dut__read_data[15] does not go to a register
+sram__dut__read_data[15]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[15] does not go to a register
+sram__dut__read_data[15]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[15] does not go to a register
+sram__dut__read_data[15]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[15] does not go to a register
+sram__dut__read_data[15]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[15] does not go to a register
+sram__dut__read_data[15]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[15] does not go to a register
+sram__dut__read_data[15]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[15] does not go to a register
+sram__dut__read_data[15]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[15] does not go to a register
+sram__dut__read_data[15]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[15] does not go to a register
+sram__dut__read_data[15]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[15] does not go to a register
+sram__dut__read_data[15]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[15] does not go to a register
+sram__dut__read_data[15]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[15] does not go to a register
+sram__dut__read_data[15]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[15] does not go to a register
+sram__dut__read_data[15]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[15] does not go to a register
+sram__dut__read_data[15]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[15] does not go to a register
+sram__dut__read_data[15]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[15] does not go to a register
+sram__dut__read_data[15]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[15] does not go to a register
+sram__dut__read_data[15]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Port sram__dut__read_data[15] connected to more than 1 cell
+sram__dut__read_data[15]
+mult_253/a[31]
+mult_253/a[30]
+mult_253/a[29]
+mult_253/a[28]
+mult_253/a[27]
+mult_253/a[26]
+mult_253/a[25]
+mult_253/a[24]
+mult_253/a[23]
+mult_253/a[22]
+mult_253/a[21]
+mult_253/a[20]
+mult_253/a[19]
+mult_253/a[18]
+mult_253/a[17]
+mult_253/a[16]
+mult_253/a[15]
+Input port sram__dut__read_data[14] does not go to a register
+sram__dut__read_data[14]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[13] does not go to a register
+sram__dut__read_data[13]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[12] does not go to a register
+sram__dut__read_data[12]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[11] does not go to a register
+sram__dut__read_data[11]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[10] does not go to a register
+sram__dut__read_data[10]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[9] does not go to a register
+sram__dut__read_data[9]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[8] does not go to a register
+sram__dut__read_data[8]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[7] does not go to a register
+sram__dut__read_data[7]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[6] does not go to a register
+sram__dut__read_data[6]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[5] does not go to a register
+sram__dut__read_data[5]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[4] does not go to a register
+sram__dut__read_data[4]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[3] does not go to a register
+sram__dut__read_data[3]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[2] does not go to a register
+sram__dut__read_data[2]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[1] does not go to a register
+sram__dut__read_data[1]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Input port sram__dut__read_data[0] does not go to a register
+sram__dut__read_data[0]
+mult_253
+ECE564MyDesign_DW_mult_uns_6
+Port dut__gmem__read_address[11] connected to more than 1 cell
+dut__gmem__read_address_reg_11_/Q
+dut__gmem__read_address[11]
+U737/A
+Port dut__gmem__read_address[10] connected to more than 1 cell
+dut__gmem__read_address_reg_10_/Q
+dut__gmem__read_address[10]
+U738/A
+U1367/A2
+Port dut__gmem__read_address[9] connected to more than 1 cell
+dut__gmem__read_address_reg_9_/Q
+dut__gmem__read_address[9]
+U741/A
+U1368/A2
+Port dut__gmem__read_address[8] connected to more than 1 cell
+dut__gmem__read_address_reg_8_/Q
+dut__gmem__read_address[8]
+U742/A
+U1369/A2
+Port dut__gmem__read_address[7] connected to more than 1 cell
+dut__gmem__read_address_reg_7_/Q
+dut__gmem__read_address[7]
+U743/A
+U1370/A2
+Port dut__gmem__read_address[6] connected to more than 1 cell
+dut__gmem__read_address_reg_6_/Q
+dut__gmem__read_address[6]
+U744/A
+U1371/A2
+Port dut__gmem__read_address[5] connected to more than 1 cell
+dut__gmem__read_address_reg_5_/Q
+dut__gmem__read_address[5]
+U748/A
+U1372/A2
+Port dut__gmem__read_address[4] connected to more than 1 cell
+dut__gmem__read_address_reg_4_/Q
+dut__gmem__read_address[4]
+U749/A
+U1373/A2
+Port dut__gmem__read_address[3] connected to more than 1 cell
+dut__gmem__read_address_reg_3_/Q
+dut__gmem__read_address[3]
+U750/A
+U1374/A2
+Port dut__gmem__read_address[2] connected to more than 1 cell
+dut__gmem__read_address_reg_2_/Q
+dut__gmem__read_address[2]
+U752/A
+U1375/A2
+Port dut__gmem__read_address[1] connected to more than 1 cell
+dut__gmem__read_address_reg_1_/Q
+dut__gmem__read_address[1]
+U752/B
+U858/A1
+U1375/A1
+Input port gmem__dut__read_data[15] does not go to a register
+gmem__dut__read_data[15]
+U1483
+INV_X1
+Input port gmem__dut__read_data[14] does not go to a register
+gmem__dut__read_data[14]
+U1481
+INV_X1
+Input port gmem__dut__read_data[13] does not go to a register
+gmem__dut__read_data[13]
+U1479
+INV_X1
+Input port gmem__dut__read_data[12] does not go to a register
+gmem__dut__read_data[12]
+U1477
+INV_X1
+Input port gmem__dut__read_data[11] does not go to a register
+gmem__dut__read_data[11]
+U1475
+INV_X1
+Input port gmem__dut__read_data[10] does not go to a register
+gmem__dut__read_data[10]
+U1473
+INV_X1
+Input port gmem__dut__read_data[9] does not go to a register
+gmem__dut__read_data[9]
+U1471
+INV_X1
+Input port gmem__dut__read_data[8] does not go to a register
+gmem__dut__read_data[8]
+U1469
+INV_X1
+Input port gmem__dut__read_data[7] does not go to a register
+gmem__dut__read_data[7]
+U1467
+INV_X1
+Input port gmem__dut__read_data[6] does not go to a register
+gmem__dut__read_data[6]
+U1465
+INV_X1
+Input port gmem__dut__read_data[5] does not go to a register
+gmem__dut__read_data[5]
+U1463
+INV_X1
+Input port gmem__dut__read_data[4] does not go to a register
+gmem__dut__read_data[4]
+U1335
+INV_X1
+Input port gmem__dut__read_data[3] does not go to a register
+gmem__dut__read_data[3]
+U786
+INV_X1
+Input port gmem__dut__read_data[2] does not go to a register
+gmem__dut__read_data[2]
+U685
+INV_X1
+Input port gmem__dut__read_data[1] does not go to a register
+gmem__dut__read_data[1]
+U683
+INV_X1
+Input port gmem__dut__read_data[0] does not go to a register
+gmem__dut__read_data[0]
+U801
+INV_X4
+Output port dut__tanhmem__read_address[11] is not driven by a register
+dut__tanhmem__read_address[11]
+U1487
+**logic_0**
+Output port dut__tanhmem__read_address[10] is not driven by a register
+dut__tanhmem__read_address[10]
+U1486
+**logic_0**
+Output port dut__tanhmem__read_address[9] is not driven by a register
+dut__tanhmem__read_address[9]
+U1333
+NOR3_X2
+Output port dut__tanhmem__read_address[8] is not driven by a register
+dut__tanhmem__read_address[8]
+U1331
+NAND4_X2
+Output port dut__tanhmem__read_address[7] is not driven by a register
+dut__tanhmem__read_address[7]
+U1323
+OAI221_X2
+Output port dut__tanhmem__read_address[6] is not driven by a register
+dut__tanhmem__read_address[6]
+U1318
+OAI221_X2
+Output port dut__tanhmem__read_address[5] is not driven by a register
+dut__tanhmem__read_address[5]
+U1313
+OAI221_X2
+Output port dut__tanhmem__read_address[4] is not driven by a register
+dut__tanhmem__read_address[4]
+U1308
+OAI221_X2
+Output port dut__tanhmem__read_address[3] is not driven by a register
+dut__tanhmem__read_address[3]
+U1303
+OAI221_X2
+Output port dut__tanhmem__read_address[2] is not driven by a register
+dut__tanhmem__read_address[2]
+U1299
+OAI221_X2
+Output port dut__tanhmem__read_address[1] is not driven by a register
+dut__tanhmem__read_address[1]
+U1295
+OAI221_X2
+Output port dut__tanhmem__read_address[0] is not driven by a register
+dut__tanhmem__read_address[0]
+U1292
+INV_X4
+Input port tanhmem__dut__read_data[15] does not go to a register
+tanhmem__dut__read_data[15]
+mult_154
+ECE564MyDesign_DW_mult_uns_4
+Input port tanhmem__dut__read_data[15] does not go to a register
+tanhmem__dut__read_data[15]
+mult_149
+ECE564MyDesign_DW_mult_uns_5
+Port tanhmem__dut__read_data[15] connected to more than 1 cell
+tanhmem__dut__read_data[15]
+mult_154/a[15]
+mult_149/a[15]
+Input port tanhmem__dut__read_data[14] does not go to a register
+tanhmem__dut__read_data[14]
+mult_154
+ECE564MyDesign_DW_mult_uns_4
+Input port tanhmem__dut__read_data[14] does not go to a register
+tanhmem__dut__read_data[14]
+mult_149
+ECE564MyDesign_DW_mult_uns_5
+Port tanhmem__dut__read_data[14] connected to more than 1 cell
+tanhmem__dut__read_data[14]
+mult_154/a[14]
+mult_149/a[14]
+Input port tanhmem__dut__read_data[13] does not go to a register
+tanhmem__dut__read_data[13]
+mult_154
+ECE564MyDesign_DW_mult_uns_4
+Input port tanhmem__dut__read_data[13] does not go to a register
+tanhmem__dut__read_data[13]
+mult_149
+ECE564MyDesign_DW_mult_uns_5
+Port tanhmem__dut__read_data[13] connected to more than 1 cell
+tanhmem__dut__read_data[13]
+mult_154/a[13]
+mult_149/a[13]
+Input port tanhmem__dut__read_data[12] does not go to a register
+tanhmem__dut__read_data[12]
+mult_154
+ECE564MyDesign_DW_mult_uns_4
+Input port tanhmem__dut__read_data[12] does not go to a register
+tanhmem__dut__read_data[12]
+mult_149
+ECE564MyDesign_DW_mult_uns_5
+Port tanhmem__dut__read_data[12] connected to more than 1 cell
+tanhmem__dut__read_data[12]
+mult_154/a[12]
+mult_149/a[12]
+Input port tanhmem__dut__read_data[11] does not go to a register
+tanhmem__dut__read_data[11]
+mult_154
+ECE564MyDesign_DW_mult_uns_4
+Input port tanhmem__dut__read_data[11] does not go to a register
+tanhmem__dut__read_data[11]
+mult_149
+ECE564MyDesign_DW_mult_uns_5
+Port tanhmem__dut__read_data[11] connected to more than 1 cell
+tanhmem__dut__read_data[11]
+mult_154/a[11]
+mult_149/a[11]
+Input port tanhmem__dut__read_data[10] does not go to a register
+tanhmem__dut__read_data[10]
+mult_154
+ECE564MyDesign_DW_mult_uns_4
+Input port tanhmem__dut__read_data[10] does not go to a register
+tanhmem__dut__read_data[10]
+mult_149
+ECE564MyDesign_DW_mult_uns_5
+Port tanhmem__dut__read_data[10] connected to more than 1 cell
+tanhmem__dut__read_data[10]
+mult_154/a[10]
+mult_149/a[10]
+Input port tanhmem__dut__read_data[9] does not go to a register
+tanhmem__dut__read_data[9]
+mult_154
+ECE564MyDesign_DW_mult_uns_4
+Input port tanhmem__dut__read_data[9] does not go to a register
+tanhmem__dut__read_data[9]
+mult_149
+ECE564MyDesign_DW_mult_uns_5
+Port tanhmem__dut__read_data[9] connected to more than 1 cell
+tanhmem__dut__read_data[9]
+mult_154/a[9]
+mult_149/a[9]
+Input port tanhmem__dut__read_data[8] does not go to a register
+tanhmem__dut__read_data[8]
+mult_154
+ECE564MyDesign_DW_mult_uns_4
+Input port tanhmem__dut__read_data[8] does not go to a register
+tanhmem__dut__read_data[8]
+mult_149
+ECE564MyDesign_DW_mult_uns_5
+Port tanhmem__dut__read_data[8] connected to more than 1 cell
+tanhmem__dut__read_data[8]
+mult_154/a[8]
+mult_149/a[8]
+Input port tanhmem__dut__read_data[7] does not go to a register
+tanhmem__dut__read_data[7]
+mult_154
+ECE564MyDesign_DW_mult_uns_4
+Input port tanhmem__dut__read_data[7] does not go to a register
+tanhmem__dut__read_data[7]
+mult_149
+ECE564MyDesign_DW_mult_uns_5
+Port tanhmem__dut__read_data[7] connected to more than 1 cell
+tanhmem__dut__read_data[7]
+mult_154/a[7]
+mult_149/a[7]
+Input port tanhmem__dut__read_data[6] does not go to a register
+tanhmem__dut__read_data[6]
+mult_154
+ECE564MyDesign_DW_mult_uns_4
+Input port tanhmem__dut__read_data[6] does not go to a register
+tanhmem__dut__read_data[6]
+mult_149
+ECE564MyDesign_DW_mult_uns_5
+Port tanhmem__dut__read_data[6] connected to more than 1 cell
+tanhmem__dut__read_data[6]
+mult_154/a[6]
+mult_149/a[6]
+Input port tanhmem__dut__read_data[5] does not go to a register
+tanhmem__dut__read_data[5]
+mult_154
+ECE564MyDesign_DW_mult_uns_4
+Input port tanhmem__dut__read_data[5] does not go to a register
+tanhmem__dut__read_data[5]
+mult_149
+ECE564MyDesign_DW_mult_uns_5
+Port tanhmem__dut__read_data[5] connected to more than 1 cell
+tanhmem__dut__read_data[5]
+mult_154/a[5]
+mult_149/a[5]
+Input port tanhmem__dut__read_data[4] does not go to a register
+tanhmem__dut__read_data[4]
+mult_154
+ECE564MyDesign_DW_mult_uns_4
+Input port tanhmem__dut__read_data[4] does not go to a register
+tanhmem__dut__read_data[4]
+mult_149
+ECE564MyDesign_DW_mult_uns_5
+Port tanhmem__dut__read_data[4] connected to more than 1 cell
+tanhmem__dut__read_data[4]
+mult_154/a[4]
+mult_149/a[4]
+Input port tanhmem__dut__read_data[3] does not go to a register
+tanhmem__dut__read_data[3]
+mult_154
+ECE564MyDesign_DW_mult_uns_4
+Input port tanhmem__dut__read_data[3] does not go to a register
+tanhmem__dut__read_data[3]
+mult_149
+ECE564MyDesign_DW_mult_uns_5
+Port tanhmem__dut__read_data[3] connected to more than 1 cell
+tanhmem__dut__read_data[3]
+mult_154/a[3]
+mult_149/a[3]
+Input port tanhmem__dut__read_data[2] does not go to a register
+tanhmem__dut__read_data[2]
+mult_154
+ECE564MyDesign_DW_mult_uns_4
+Input port tanhmem__dut__read_data[2] does not go to a register
+tanhmem__dut__read_data[2]
+mult_149
+ECE564MyDesign_DW_mult_uns_5
+Port tanhmem__dut__read_data[2] connected to more than 1 cell
+tanhmem__dut__read_data[2]
+mult_154/a[2]
+mult_149/a[2]
+Input port tanhmem__dut__read_data[1] does not go to a register
+tanhmem__dut__read_data[1]
+mult_154
+ECE564MyDesign_DW_mult_uns_4
+Input port tanhmem__dut__read_data[1] does not go to a register
+tanhmem__dut__read_data[1]
+mult_149
+ECE564MyDesign_DW_mult_uns_5
+Port tanhmem__dut__read_data[1] connected to more than 1 cell
+tanhmem__dut__read_data[1]
+mult_154/a[1]
+mult_149/a[1]
+Input port tanhmem__dut__read_data[0] does not go to a register
+tanhmem__dut__read_data[0]
+mult_154
+ECE564MyDesign_DW_mult_uns_4
+Input port tanhmem__dut__read_data[0] does not go to a register
+tanhmem__dut__read_data[0]
+mult_149
+ECE564MyDesign_DW_mult_uns_5
+Port tanhmem__dut__read_data[0] connected to more than 1 cell
+tanhmem__dut__read_data[0]
+mult_154/a[0]
+mult_149/a[0]
+Input port xxx__dut__run does not go to a register
+xxx__dut__run
+U829
+INV_X4
+Port dut__xxx__busy connected to more than 1 cell
+dut__xxx__busy_reg/Q
+dut__xxx__busy
+U732/A1
+U745/A1
+U794/A2
+U795/A2
+U882/A1
+U1036/A2
+U1289/A2
+Input port reset_b does not go to a register
+reset_b
+U817
+INV_X4

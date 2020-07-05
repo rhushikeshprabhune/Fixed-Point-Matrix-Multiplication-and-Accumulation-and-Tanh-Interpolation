@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/afs/unity.ncsu.edu/users/r/rprabhu/rprabhu/v
+T_opt
+!s110 1574816985
+V]T?Zi8NnQ2^:SdcKQ9OfW0
+04 6 4 work tb_top fast 0
+=1-008cfa039ed4-5dddccd8-ef637-7fe6
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6c;65
+vECE564MyDesign
+Z2 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z3 !s110 1574816912
+!i10b 1
+!s100 Kz>TJAZ5@VB^h]izk=68^0
+IaQF<U=g=_dBdEL0gINCFd2
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 !s105 ece564_project_tb_top_sv_unit
+S1
+R0
+w1574809177
+8ECE564MyDesign.v
+FECE564MyDesign.v
+L0 5
+Z6 OL;L;10.6c;65
+r1
+!s85 0
+31
+Z7 !s108 1574816912.000000
+Z8 !s107 sram.sv|ECE564MyDesign.v|ece564_project_tb_top.sv|
+Z9 !s90 -sv|ece564_project_tb_top.sv|
+!i113 0
+Z10 o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@e@c@e564@my@design
+vsram
+R2
+R3
+!i10b 1
+!s100 bjZM7>P7l2F_alaQ9jniJ1
+IRo8bi_dLCNebhJUnUTIOZ3
+R4
+R5
+S1
+R0
+w1574810997
+8sram.sv
+Fsram.sv
+L0 16
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R1
+vtb_top
+R2
+R3
+!i10b 1
+!s100 QHlcN7HM;b1MILID<kAOB2
+I=YM<EcmL?Th4^TmzdRoNd0
+R4
+R5
+S1
+R0
+w1574586968
+8ece564_project_tb_top.sv
+Fece564_project_tb_top.sv
+L0 34
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R1

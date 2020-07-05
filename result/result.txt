@@ -1,0 +1,4 @@
+Area = 9330.48205 um2
+Number of cycles = 41615/10 = 4161.5 ~ 4105
+clock period = 10.5 ns
+performance = 402167102.56 (um2)(ns)
